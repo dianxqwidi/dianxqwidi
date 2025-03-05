@@ -33,4 +33,4 @@ First-year Student | Studying Computer Science
 
 ## 📫 Contact Me
 
-[![Telegram](https://img.shields.io/badge/telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white)](t.me/dianxqwi)  ![kuroshi23](https://img.shields.io/badge/dianxqwi-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+[![Telegram](https://img.shields.io/badge/telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dianxqwi)  ![dianxqwi](https://img.shields.io/badge/dianxqwi-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
